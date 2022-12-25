@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(196, 179, 179);
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+header img{
+    width: 250px;
+    height: 150px;
+    border-bottom: black;
+    border-radius: 30px;
+}
+
+nav{
+    background-color: #5fc0ec;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+nav a{
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin:20px 50px 20px 50px;
+}
+
+footer {
+    background-color: #5fc0ec;
+    display: flex;
+    padding: 40px 0px 45px 45px;
+}
+
+.text1:hover{
+   background-color: rgb(0, 76, 255);
+}
+
+.text2:hover{
+    background-color: rgb(0, 76, 255);
+} 
+
+.text3:hover{
+    background-color: rgb(0, 76, 255);
+}
+
+.text4:hover{
+    background-color: rgb(0, 76, 255);
+}
+
+.text5:hover{
+    background-color: rgb(0, 76, 255);
+}
+
+.text6:hover{
+    background-color: rgb(0, 76, 255);
+}
